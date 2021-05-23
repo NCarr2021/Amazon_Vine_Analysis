@@ -33,28 +33,28 @@ For each DataFrame, provide the following results.
 
 - How many Vine reviews and non-Vine reviews were there?
 The total number of Vine reviews is 285.
-![paid-vines](paid-vines.png)
+![paid-vines](Resources/paid-vines.png)
 
 The total number of non-Vine reviews is 31,545.
-![unpaid-vines](unpaid-vines.png)
+![unpaid-vines](Resources/unpaid-vines.png)
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 
 5 stars?
 
 The number of 5 star Vine reviews is 163.
-![paid-vine-5stars](paid-vine-5stars.png)
+![paid-vine-5stars](Resources/paid-vine-5stars.png)
 
 The number of 5 star non-Vine reviews is 14,614.
-![unpaid-vine-5stars](unpaid-vine-5stars.png)
+![unpaid-vine-5stars](Resources/unpaid-vine-5stars.png)
 
 - What percentage of Vine reviews were 5 stars? What percentage of 
 non-Vine reviews were 5 stars?
 
 The percentage of 5 star Vine reviews is 57.2%.
-![paid-vine-percentage](paid-vine-percentage.png)
+![paid-vine-percentage](Resources/paid-vine-percentage.png)
 
 The percentage of 5 star non-Vine reviews is 46.3%.
-![unpaid-vine-5stars](unpaid-vine-percentage.png)
+![unpaid-vine-5stars](Resources/unpaid-vine-percentage.png)
 
 
 # Summary
