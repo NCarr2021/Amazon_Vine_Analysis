@@ -66,5 +66,5 @@ difference is over 10%, the number of non-Vine reviews is much
 greater than the Vine reviews and should be considered.
 
 Statistical analysis using Mean-Median-Mode to
-validate the positivity bias for the Vine program.
+validate for any positivity bias for the Vine program.
 
