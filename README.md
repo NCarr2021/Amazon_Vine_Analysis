@@ -61,7 +61,9 @@ The percentage of 5 star non-Vine reviews is 46.3%.
 
 The percentage difference with 5 star reviews between the Vine
 program at 57.2% versus 46.3% in the non-Vine program indicates 
-a positivity bias for the Vine program.
+no positivity bias for the Vine program. Even though the percentage
+difference is over 10%, the number of non-Vine reviews is much
+greater than the Vine reviews and should be considered.
 
 Statistical analysis using Mean-Median-Mode to
 validate the positivity bias for the Vine program.
