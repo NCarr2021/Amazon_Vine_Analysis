@@ -45,8 +45,8 @@ The number of 5 star Vine reviews is 163.
 ![paid-vine-5stars](Resources/paid-vine-5stars.png)
 
 The number of 5 star non-Vine reviews is 14,614.
-![unpaid-vine-5star](Resources/unpaid-vine-5star.png)
-    
+![unpaid-vines-5star](Resources/unpaid-vines-5star.png)
+
 - What percentage of Vine reviews were 5 stars? What percentage of 
 non-Vine reviews were 5 stars?
 
