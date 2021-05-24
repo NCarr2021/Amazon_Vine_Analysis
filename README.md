@@ -65,6 +65,7 @@ no positivity bias for the Vine program. Even though the percentage
 difference is over 10%, the number of non-Vine reviews is much
 greater than the Vine reviews and should be considered.
 
-Statistical analysis using Mean-Median-Mode to
-validate for any positivity bias for the Vine program.
+Additional analysis could include sampling similar data and date 
+range vs. random reviews, narrowing down product types or including 
+additional Vine reviews for lower than 5 starts.\
 
