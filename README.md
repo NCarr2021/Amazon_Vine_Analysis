@@ -2,7 +2,7 @@
 
 # Module 16 - Big Data Challenge
 
-# 1. Overview of the Analysis
+## 1. Overview of the Analysis
 
 Analyze Amazon reviews written by members of the paid Amazon
 Vine program to determine if there is any bias toward favorable 
@@ -27,7 +27,7 @@ the data into pgAdmin
 - Use Python/Jupyter Notebook to read in the vine dataset to perform the analysis (split paid vine and unpaid vine reviews, review 5 star reviews, calculate percentages).
  
 
-# 2. Results
+## 2. Results
 
 For each DataFrame, provide the following results.
 
@@ -36,7 +36,7 @@ The total number of Vine reviews is 285.
 ![paid-vines](Resources/paid-vines.png)
 
 The total number of non-Vine reviews is 31,545.
-![unpaid-vines](Resources/unpaid-vines.png)
+![unpaid-vine](Resources/unpaid-vine.png)
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 
 5 stars?
@@ -45,8 +45,8 @@ The number of 5 star Vine reviews is 163.
 ![paid-vine-5stars](Resources/paid-vine-5stars.png)
 
 The number of 5 star non-Vine reviews is 14,614.
-![unpaid-vine-5stars](Resources/unpaid-vine-5stars.png)
-
+![unpaid-vine-5star](Resources/unpaid-vine-5star.png)
+    
 - What percentage of Vine reviews were 5 stars? What percentage of 
 non-Vine reviews were 5 stars?
 
@@ -57,7 +57,7 @@ The percentage of 5 star non-Vine reviews is 46.3%.
 ![unpaid-vine-5stars](Resources/unpaid-vine-percentage.png)
 
 
-# Summary
+## Summary
 
 The percentage difference with 5 star reviews between the Vine
 program at 57.2% versus 46.3% in the non-Vine program indicates 
@@ -67,5 +67,5 @@ greater than the Vine reviews and should be considered.
 
 Additional analysis could include sampling similar data and date 
 range vs. random reviews, narrowing down product types or including 
-additional Vine reviews for lower than 5 starts.\
+additional Vine reviews for lower than 5 starts.
 
