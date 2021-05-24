@@ -67,5 +67,5 @@ greater than the Vine reviews and should be considered.
 
 Additional analysis could include sampling similar data and date 
 range vs. random reviews, narrowing down product types or including 
-additional Vine reviews for lower than 5 starts.
+additional Vine reviews for lower than 5 stars.
 
